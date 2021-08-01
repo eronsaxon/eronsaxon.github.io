@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Eron Saxon
+title: Eron Saxon Website
 email: eronsaxon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog site.
@@ -26,6 +26,21 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eronsaxon.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  eronsaxon
+youtube_username:
+
+# Fields minima uses, but are not defaulted with the jekyll new command
+# author is the defulat for posts, the Atom feed, and is used in the footer. 
+author: Eron Saxon
+
+# Add new fields not dfaulted by Jekyll-new with the minima theme
+# add a copyright. A copyright symbol and year will be added automatically
+# copyright: statement
+copyright: "Copyright"
+
+# title-logo is a new field that, when used, dispalys a logo
+# title-logo: /images/carbon symbol valence edited.png
+title-logo: /images/carbon-name-website.png
+
 
 # Build settings
 # removed minima theme as it is now a regular theme

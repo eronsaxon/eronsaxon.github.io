@@ -1,4 +1,4 @@
-<h1> about us </h1>
+<h1> About Me </h1>
 
 here is some info. about me 
 

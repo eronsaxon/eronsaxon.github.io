@@ -1,3 +1,3 @@
-# eronsaxon.github.io
+# Eron Saxon Website
 
 Welcome to my website

@@ -1,3 +1,3 @@
 # welcome index.md!
 
-[about us] (about.md)
+Name about.md <a href="index.md" title="Back to the home page">About Me</a>

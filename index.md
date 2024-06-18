@@ -18,7 +18,7 @@ Hello! I am an organic chemist with a PhD in Chemistry from the Univeristy of Wi
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .responsive {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
 }
 </style>

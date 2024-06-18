@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
+**About** <br>
 
-Organic Chemist
+1. Organic Chemist seeking for a job in the field of chemistry

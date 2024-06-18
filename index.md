@@ -15,7 +15,16 @@ Hello! I am an organic chemist with a PhD in Chemistry from the Univeristy of Wi
 
 > *Boron-based theranostics and prodrugs: design, synthesis, mechanism and biological investigation*
 
-<img src="theranostic-compounds.png" alt="theranostics" class="responsive" width="400" height="300">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.responsive {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
+</style>
+
+<img src="theranostic-compounds.png" alt="theranostics" class="responsive" class="center" width="400" height="333">
 
 ## Employment Experience
 

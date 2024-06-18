@@ -19,7 +19,7 @@ Hello! I am an organic chemist with a PhD in Chemistry from the Univeristy of Wi
 <style>
 .responsive {
   width: 100%;
-  max-width: 500px;
+  max-width: 200px;
   height: auto;
 }
 </style>

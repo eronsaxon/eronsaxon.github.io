@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome to my profile"
+title:  "My profile"
 date:   June 18 2024
 categories: jekyll update
 ---
 
 ## Education:
 
-1. Chemistry 
+1. PhD Chemistry 
 
 ## Work
 
-1. Chemistry 
+1. Organic Chemistry 

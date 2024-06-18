@@ -9,7 +9,7 @@ layout: default
 <br>
 <img class="profile-picture" src="self-portrait2.JPG">
 
-Hello! I am an organic chemist with a PhD in Chemistry from the Univeristy of Wisconsin-Milwaukee.
+Hello! I am an organic chemist with a PhD in Chemistry from the [Univeristy of Wisconsin-Milwaukee](https://uwm.edu/chemistry/our-people/saxon-eron/).
 <br>
 <br>
 ## PhD Dissertation
@@ -50,7 +50,8 @@ Hello! I am an organic chemist with a PhD in Chemistry from the Univeristy of Wi
     <br>− Operated analytical instruments, including LECO carbon/sulfur and nitrogen/oxygen instruments, x-ray, and arc optical emission spectrometers
     <br>− Maintained and standardized instruments following Nadcap (National Aerospace and Defense Contractors Accreditation Program) approved protocols
     <br>− Performed routine analysis of heterogeneous metals for determination of elemental composition
-
+<br>
+<br>
 **2. Research and Teaching Assistant** (September 2019 – May 2024) <br>
 University of Wisconsin–Milwaukee, Advisor: Prof. Peng Location: Milwaukee, WI<br>
 <br>− Designed novel theranostic and prodrug nitrogen mustards as anticancer small
@@ -72,7 +73,8 @@ athymic mice study following IACUC approved guidelines
 <br>− Determined prodrug activation mechanism *in vitro* and *in vivo* through deuterium
 isotope-labeled mustard prodrugs
 <br>
-
+<br>
+<br>
 **3. Research Volunteer** (June 2024 – Current)<br>
 University of Wisconsin–Milwaukee, Advisor: Prof. Peng Location: Milwaukee, WI<br>
 <br>- Investigation of novel small molecule prodrugs and theranostics as selective anticancer and/or fluorogenic agents

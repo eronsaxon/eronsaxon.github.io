@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "My first post"
-date:   2021-08-01 11:07:15 -0500
+title:  "Welcome to my profile"
+date:   June 18 2024
 categories: jekyll update
 ---
 
-Welcome to my first post - testing website 
+## Education:
 
-## Here are things I will write about
+1. Chemistry 
+
+## Work
 
 1. Chemistry 

@@ -15,6 +15,8 @@ Hello! I am an organic chemist with a PhD in Chemistry from the Univeristy of Wi
 
 > *Boron-based theranostics and prodrugs: design, synthesis, mechanism and biological investigation*
 
+<img src="theranostic-compounds.png" alt="theranostics" width="500" height="333">
+
 ## Employment Experience
 
 **1. Quality Control Lab Technician** (January 2018 – April 2019) <br>

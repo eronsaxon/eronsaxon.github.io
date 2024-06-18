@@ -4,13 +4,14 @@
 
 layout: default
 ---
-
+<br>
 ## About Me
-
+<br>
 <img class="profile-picture" src="self-portrait2.JPG">
 
 Hello! I am an organic chemist with a PhD in Chemistry from the Univeristy of Wisconsin-Milwaukee.
-
+<br>
+<br>
 ## PhD Dissertation
 
 > *Boron-based theranostics and prodrugs: design, synthesis, mechanism and biological investigation*
@@ -40,11 +41,9 @@ Hello! I am an organic chemist with a PhD in Chemistry from the Univeristy of Wi
 </body>
 </html>
 
-
-
-
+<br>
 ## Employment Experience
-
+<br>
 **1. Quality Control Lab Technician** (January 2018 – April 2019) <br>
     Company: MetalTek International         Location: Waukesha, WI
     <br>
@@ -77,6 +76,8 @@ isotope-labeled mustard prodrugs
 **3. Research Volunteer** (June 2024 – Current)<br>
 University of Wisconsin–Milwaukee, Advisor: Prof. Peng Location: Milwaukee, WI<br>
 <br>- Investigation of novel small molecule prodrugs and theranostics as selective anticancer and/or fluorogenic agents
+<br>
+<br>
 
 ## Publications
 <br>− Fan, H.; Zaman, M. A. U.; Chen, W.; Ali, T.; Campbell, A.; Zhang, Q.; Setu, N. I.; **Saxon,
@@ -89,18 +90,23 @@ Organoborons for Biological and Biomedical Applications. ChemBioChem. 2021,
 <br>− **Saxon, E.**; Ali, T.; Peng, X. (2024), Hydrogen Peroxide Responsive Theranostics for
 Cancer-Selective Activation of DNA Alkylators and Real-Time Fluorescence Monitoring in
 Living Cells. (under review, Eur. J. Med. Chem)
-
+<br>
+<br>
 
 ## Presentations
 <br>− Saxon E., Peng X., DNA Sequencing: Modern Techniques and Application (2020). UWM Graduate Seminar, Milwaukee WI.
 <br>− Saxon E., Peng X., Synthesis of a Novel Phenyl Boronic Ester Nitrogen Mustard Analog (2021). Poster at the UWM Spring Symposium, Milwaukee WI.
 <br>− Saxon, E., Peng, X. Biological Application of a Novel DNA-Alkylating Theranostic Agent (2022). Poster at the ACS Fall 2022 Conference, Chicago IL.
 <br>− Saxon E., Peng X., Synthesis and Application of a Novel DNA Alkylating Theranostic Agent. (2022). Seminar at the UWM Milwaukee Institute for Drug Discovery Symposium, Milwaukee WI.
+<br>
+<br>
 
 ## Awards<br>
 − UWM Chancellor’s Award (2019 – 2022)
 <br>− UWM Graduate School Distinguished Dissertation Fellowship (DDF) Award (2023 – 2024)
-
+<br>
+<br>
 ## Patent<br>
 − Peng, X.; Saxon, E., Hydrogen Peroxide Responsive Theranostics. Patent Application 2024, US provisional patent No. 020871-0017-US01
-
+<br>
+<br>

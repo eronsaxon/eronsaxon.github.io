@@ -39,3 +39,18 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+footer: yes
+footer_url: "http://eronsaxon.com/test-profile/researcher"
+footer_text: "Eron Saxon"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/about/"
+ - name: "Resume"
+   link: "Resume.pdf"
+ - name: "Contact"
+   link: "contact"

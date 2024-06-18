@@ -7,62 +7,36 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Eron Saxon
-email: chemistry@eronsaxon.com
+title: Your awesome title
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog site.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eronsaxon.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  eronsaxon
-youtube_username:
-
-# Fields minima uses, but are not defaulted with the jekyll new command
-# author is the defulat for posts, the Atom feed, and is used in the footer. 
-author: Eron Saxon
-
-# Add new fields not dfaulted by Jekyll-new with the minima theme
-# add a copyright. A copyright symbol and year will be added automatically
-# copyright: statement
-copyright: "Copyright"
-
-# title-logo is a new field that, when used, dispalys a logo
-# title-logo: /images/carbon symbol valence edited.png
-title-logo: /images/carbon-name-website.png
-
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
-# removed minima theme as it is now a regular theme
-# theme: minima
+markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
 
 # Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules/
+#   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/

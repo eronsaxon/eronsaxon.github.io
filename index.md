@@ -102,11 +102,13 @@ Living Cells. (under review, Eur. J. Med. Chem)
 <br>
 
 ## Awards<br>
+<br>
 − UWM Chancellor’s Award (2019 – 2022)
 <br>− UWM Graduate School Distinguished Dissertation Fellowship (DDF) Award (2023 – 2024)
 <br>
 <br>
 ## Patent<br>
+<br>
 − Peng, X.; Saxon, E., Hydrogen Peroxide Responsive Theranostics. Patent Application 2024, US provisional patent No. 020871-0017-US01
 <br>
 <br>

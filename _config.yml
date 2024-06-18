@@ -40,7 +40,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 footer: yes
-footer_url: "http://eronsaxon.com/test-profile/researcher"
+footer_url: "https://eronsaxon.com/"
 footer_text: "Eron Saxon"
 
 sass:

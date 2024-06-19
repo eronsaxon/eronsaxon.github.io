@@ -8,12 +8,17 @@ html {
     height: 100%;
     margin: 0;
     padding: 0;
+    max-width: larger;
 }
 body {
     margin: 0;
     font-family: "Inconsolata";
     height: 100%;
+    font-size:larger;
+    max-width: larger;
+    line-height: 1.2;
 }
+
 a {
     text-decoration: none;
     color: $accent;

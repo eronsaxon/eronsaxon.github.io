@@ -15,7 +15,7 @@ Hello! I am an organic chemist with a PhD in Chemistry from the [University of W
 <br>
 ## PhD Dissertation
 
-> *Boron-based theranostics and prodrugs: design, synthesis, mechanism and biological investigation*
+> *Boron-based theranostics and prodrugs: design, synthesis, mechanism and biological investigation* (<a href="https://dc.uwm.edu/etd/3513/">UWM Digital Commons</a>)
 
 <html>
 <head>
@@ -66,6 +66,31 @@ fluorescence, and fluorescence confocal microscope instruments</li>
 <li>Evaluated theranostics and prodrugs using cytotoxicity and fluorescence colocalization assays <i>in vitro</i> with TNBC MDA-MB-468 cell line</li>
 <li>Synthesized oligonucleotides by automated solid-phase synthesis with ABI 394,
 purification and <sup>32</sup>P radiolabeling of oligo for DNA interstrand cross-linking assays</li>
+
+<html>
+<head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox {
+            display: grid;
+            height: 90%;
+        }
+        .center-fit {
+            max-width: 90%;
+            max-height: 100vh;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div class="imgbox">
+    <img class="center-fit" src='synthetic-49mer-radiolabeled.png'>
+</div>
+</body>
+</html>
 <li>Determined safety and anticancer efficacy of compounds in <i>in vivo</i> CD1 and xenograft athymic mice study following IACUC approved guidelines</li>
 <li>Determined physiochemical properties of small molecules (solubility and permeability)</li>
 <li>Determined photophysical properties of fluorescent dyes</li>
@@ -111,7 +136,8 @@ University of Wisconsin–Milwaukee; <a href="https://uwm.edu/chemistry/our-peop
 <br>
 <ul>
 <li>Synthetic organic chemistry, laboratory techniques and instrumentation</li> <li>Multi-step synthetic routes (>13 steps) of oxygen-,water-, light-sensitive reaction conditions</li> 
-<li>Click CuAAC and boron chemistry</li> 
+<li>Click CuAAC, heterocycle and boron chemistry</li> 
+<li>Biochemistry and biological assays: in vitro cell cultures and in vivo mice models</li> 
 <li>Knowledge of anticancer drug development process</li> 
 <li>Microsoft Office, ChemDraw, ChemSketch, SciFinder, Reaxys, Shimadzu LabSolutions, Bruker TopSpin, ImageJ, Zeiss Zen, QuPath and GraphPad Prism</li> 
 </ul>
@@ -120,16 +146,17 @@ University of Wisconsin–Milwaukee; <a href="https://uwm.edu/chemistry/our-peop
 ## Auxiliary Skills
 <br>
 <ul>
-<li>Lab safety, cleanliness and organization, self-motivated, detail-oriented, lab notebook literate</li> 
+<li>Ability to maintain lab safety, lab cleanliness, lab notebook and meet deadlines</li> 
+<li>Self-motivated and detail-oriented </li> 
 <br>
 </ul>
 
 ## Publications
 <br>
 <ul>
-<li>Fan, H.; Zaman, M. A. U.; Chen, W.; Ali, T.; Campbell, A.; Zhang, Q.; Setu, N. I.; <b>Saxon, E.</b>; Zahn, N. M.; Benko, A. M.; Arnold, L. A.; Peng, X., Assessment of Phenylboronic Acid Nitrogen Mustards as Potent and Selective Drug Candidates for Triple-Negative Breast Cancer. ACS Pharmacol. Transl. Sci. 2021, 4 (2), 687-702, <a href="https://pubs.acs.org/doi/10.1021/acsptsci.0c00092">doi.org/10.1021/acsptsci.0c00092</a></li>
-<li><b>Saxon, E.</b>; Peng, X. (2021), Recent Advances in Hydrogen Peroxide Responsive Organoborons for Biological and Biomedical Applications. ChemBioChem. 2021, <a href="https://doi.org/10.1002/cbic.202100366">doi.org/10.1002/cbic.202100366</a></li> 
-<li><b>Saxon, E.</b>; Ali, T.; Peng, X. (2024), Hydrogen Peroxide Responsive Theranostics for Cancer-Selective Activation of DNA Alkylators and Real-Time Fluorescence Monitoring in Living Cells. (under review, Eur. J. Med. Chem)</li>
+<li>Fan, H.; Zaman, M. A. U.; Chen, W.; Ali, T.; Campbell, A.; Zhang, Q.; Setu, N. I.; <b>Saxon, E.</b>; Zahn, N. M.; Benko, A. M.; Arnold, L. A.; Peng, X., Assessment of Phenylboronic Acid Nitrogen Mustards as Potent and Selective Drug Candidates for Triple-Negative Breast Cancer. <i>ACS Pharmacol. Transl. Sci.</i> 2021, 4 (2), 687-702, <a href="https://pubs.acs.org/doi/10.1021/acsptsci.0c00092">doi.org/10.1021/acsptsci.0c00092</a></li>
+<li><b>Saxon, E.</b>; Peng, X. (2021), Recent Advances in Hydrogen Peroxide Responsive Organoborons for Biological and Biomedical Applications. <i>ChemBioChem</i>. 2021, <a href="https://doi.org/10.1002/cbic.202100366">doi.org/10.1002/cbic.202100366</a></li> 
+<li><b>Saxon, E.</b>; Ali, T.; Peng, X. (2024), Hydrogen Peroxide Responsive Theranostics for Cancer-Selective Activation of DNA Alkylators and Real-Time Fluorescence Monitoring in Living Cells. (under review, <i>Eur. J. Med. Chem</i>)</li>
 </ul> 
 <br>
 <br>

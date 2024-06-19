@@ -4,7 +4,7 @@ is_contact: true
 ---
 ## Contact
 
-* Email: [eronsaxon@gmail.com](mailto:eronsaxon@gmail.com)
+Email: [eronsaxon@gmail.com](mailto:eronsaxon@gmail.com)
 
 ## Social
 

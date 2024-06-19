@@ -4,4 +4,4 @@ layout: default
 
 **About** <br>
 
-Organic Chemist seeking for a job in the field of chemistry
+Organic Chemist seeking a job in the field of chemistry

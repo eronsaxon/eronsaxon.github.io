@@ -46,7 +46,7 @@ Hello! I am an organic chemist with a PhD in Chemistry from the [University of W
 ## Employment Experience
 <br>
 **1. Quality Control Lab Technician** (January 2018 – April 2019) <br>
-    Company: MetalTek International; Location: Waukesha, WI
+    Company: <a href="https://www.metaltek.com/"> MetalTek International</a>; Location: Waukesha, WI
 <ul>
     <br>
 <li>Operated analytical instruments, including LECO carbon/sulfur and nitrogen/oxygen instruments, x-ray, and arc optical emission spectrometers</li>
@@ -100,7 +100,7 @@ purification and 32P radiolabeling of oligo for DNA interstrand cross-linking as
 <br>
 <br>
 **3. Research Volunteer** (June 2024 – Current)<br>
-University of Wisconsin–Milwaukee, Advisor: Prof. Peng Location: Milwaukee, WI<br>
+University of Wisconsin–Milwaukee; <a href="https://uwm.edu/chemistry/our-people/peng-xiaohua/">Prof. Peng</a>; Location: Milwaukee, WI<br>
 <ul>
 <li>Investigation of novel small molecule prodrugs and theranostics as selective anticancer and/or fluorogenic agents</li>
 <br>

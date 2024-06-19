@@ -63,9 +63,9 @@ molecules</li>
 <li>Isolated and purified compounds by column chromatography, distillation, precipitation, recrystallization, and trituration resulting in 4 novel theranostics</li>
 <li>Characterized compounds by utilizing TLC, NMR, LCMS, HRMS Q-TOF, UV/VIS,
 fluorescence, and fluorescence confocal microscope instruments</li>
-<li>Evaluated theranostics and prodrugs using cytotoxicity and fluorescence colocalization assays in vitro with TNBC MDA-MB-468 cell line</li>
+<li>Evaluated theranostics and prodrugs using cytotoxicity and fluorescence colocalization assays <i>in vitro</i> with TNBC MDA-MB-468 cell line</li>
 <li>Synthesized oligonucleotides by automated solid-phase synthesis with ABI 394,
-purification and 32P radiolabeling of oligo for DNA interstrand cross-linking assays</li>
+purification and <sup>32</sup>P radiolabeling of oligo for DNA interstrand cross-linking assays</li>
 <li>Determined safety and anticancer efficacy of compounds in <i>in vivo</i> CD1 and xenograft athymic mice study following IACUC approved guidelines</li>
 <li>Determined physiochemical properties of small molecules (solubility and permeability)</li>
 <li>Determined photophysical properties of fluorescent dyes</li>
@@ -112,7 +112,7 @@ University of Wisconsin–Milwaukee; <a href="https://uwm.edu/chemistry/our-peop
 <ul>
 <li>Synthetic organic chemistry, laboratory techniques and instrumentation</li> <li>Multi-step synthetic routes (>13 steps) of oxygen-,water-, light-sensitive reaction conditions</li> 
 <li>Click CuAAC and boron chemistry</li> 
-<li>Knowledge of the anticancer drug development process</li> 
+<li>Knowledge of anticancer drug development process</li> 
 <li>Microsoft Office, ChemDraw, ChemSketch, SciFinder, Reaxys, Shimadzu LabSolutions, Bruker TopSpin, ImageJ, Zeiss Zen, QuPath and GraphPad Prism</li> 
 </ul>
 <br>
@@ -120,7 +120,7 @@ University of Wisconsin–Milwaukee; <a href="https://uwm.edu/chemistry/our-peop
 ## Auxiliary Skills
 <br>
 <ul>
-<li>Lab safety and organization, self-motivated, detail-oriented, lab notebook literate</li> 
+<li>Lab safety, cleanliness and organization, self-motivated, detail-oriented, lab notebook literate</li> 
 <br>
 </ul>
 

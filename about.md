@@ -51,6 +51,6 @@ Purpose: Organic Chemist seeking a job in the field of chemistry.
 
 <Br>
 
- Besides my previous work, I am also open and willing to learn new chemistry and opportunities. If you are interested in hiring me, feel free to contact by e-mail.
+ Besides my previous work, I am also open and willing to learn new chemistry and opportunities. If you are interested in hiring me, feel free to contact by <a href="https://eronsaxon.com/contact">e-mail</a>.
  
 <Br>

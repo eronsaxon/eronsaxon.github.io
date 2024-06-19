@@ -71,6 +71,32 @@ purification and 32P radiolabeling of oligo for DNA interstrand cross-linking as
 <li>Determined photophysical properties of fluorescent dyes</li>
 <li>Determined prodrug activation mechanism <i>in vitro</i> and <i>in vivo</i> through deuterium isotope-labeled mustard prodrugs </li>
 </ul>
+
+<html>
+<head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox-second {
+            display: grid;
+            height: 33%;
+        }
+        .center-fit-second {
+            max-width: 33%;
+            max-height: 33vh;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div class="imgbox-second">
+    <img class="center-fit-second" src='prodrug-compounds.png'>
+</div>
+</body>
+</html>
+
 <br>
 <br>
 **3. Research Volunteer** (June 2024 – Current)<br>

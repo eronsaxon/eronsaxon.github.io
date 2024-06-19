@@ -10,7 +10,7 @@ layout: default
 <br>
 <img class="profile-picture" src="self-portrait2.JPG">
 
-Hello! I am an organic chemist with a PhD in Chemistry from the [University of Wisconsin-Milwaukee](https://uwm.edu/chemistry/our-people/saxon-eron/).
+Hello! I am an organic chemist with a PhD in Chemistry from the [University of Wisconsin-Milwaukee](https://uwm.edu/chemistry/our-people/saxon-eron/). I am currently seeking a job in the field of chemistry. Feel free to contact me if you're interested in my work.
 <br>
 <br>
 ## PhD Dissertation

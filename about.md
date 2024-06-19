@@ -8,7 +8,7 @@ layout: default
 
 <Br>
 
-Purpose: Organic Chemist seeking for a job in the field of chemistry.
+Purpose: Organic Chemist seeking a job in the field of chemistry.
 
 <Br>
 

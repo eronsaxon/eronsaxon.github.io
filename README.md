@@ -1,3 +1,3 @@
-# Eron Saxon Website
+# Eron Saxon Profile Website
 
-Welcome to my website
+Welcome to my profile website

@@ -49,7 +49,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "about/"
+   link: "about"
  - name: "Resume"
    link: "online-resume.pdf"
  - name: "Contact"

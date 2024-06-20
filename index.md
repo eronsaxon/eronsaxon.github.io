@@ -26,11 +26,11 @@ Hello! I am an organic chemist with a PhD in Chemistry from the [University of W
         }
         .imgbox {
             display: grid;
-            height: 100%;
+            height: 95%;
         }
         .center-fit {
-            max-width: 100%;
-            max-height: 100vh;
+            max-width: 95%;
+            max-height: 95vh;
             margin: auto;
         }
     </style>
@@ -74,20 +74,20 @@ purification and <sup>32</sup>P radiolabeling of oligo for DNA interstrand cross
             margin: 0;
             padding: 0;
         }
-        .imgbox {
+        .imgbox2 {
             display: grid;
-            height: 90%;
+            height: 80%;
         }
-        .center-fit {
-            max-width: 90%;
-            max-height: 100vh;
+        .center-fit2 {
+            max-width: 80%;
+            max-height: 80vh;
             margin: auto;
         }
     </style>
 </head>
 <body>
-<div class="imgbox">
-    <img class="center-fit" src='synthetic-49mer-radiolabeled.png'>
+<div class="imgbox2">
+    <img class="center-fit2" src='synthetic-49mer-radiolabeled.png'>
 </div>
 </body>
 </html>

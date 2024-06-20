@@ -12,7 +12,7 @@ Purpose: Organic Chemist seeking a job in the field of chemistry.
 
 <Br>
 
- Summary: I have a PhD in Chemistry from the University of Wisconsin-Milwaukee under the supervision of Dr. Xiaohua Peng. I am looking for more work related to organic chemistry and synthesis. My research and work was related to the design, synthesis and investigation of novel boron-based theranostic small molecules intended to be used as both selective anticancer agents and profluorophores. 
+ Summary: I have a PhD in Chemistry from the University of Wisconsin-Milwaukee under the supervision of Dr. Xiaohua Peng. My research and work was related to the design, synthesis and investigation of novel boron-based theranostic small molecules intended to be used as both selective anticancer agents and profluorophores. 
 
 <Br>
 
@@ -55,6 +55,6 @@ Purpose: Organic Chemist seeking a job in the field of chemistry.
 
 <Br>
 
- Besides my previous work, I am also open and eager to learn new chemistry and opportunities. If you are interested in hiring me, feel free to contact by <a href="https://eronsaxon.com/contact">e-mail</a>.
+ Currently, I am looking for more work related to organic chemistry and synthesis. Besides my previous work, I am also open and eager to learn new chemistry and opportunities. If you are interested in hiring me, feel free to contact by <a href="https://eronsaxon.com/contact">e-mail</a>.
  
 <Br>

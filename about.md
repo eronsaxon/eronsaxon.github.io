@@ -13,6 +13,33 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 <Br>
 
  Summary: I have a PhD in Chemistry from the University of Wisconsin-Milwaukee under the supervision of Dr. Xiaohua Peng. My research and work was related to the design, synthesis and investigation of novel boron-based theranostic small molecules intended to be used as both selective anticancer agents and profluorophores. 
+<Br>
+<Br>
+<html>
+<head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox-3 {
+            display: grid;
+            height: 45%;
+        }
+        .center-3 {
+            max-width: 45%;
+            max-height: 50vh;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div class="imgbox-3">
+    <img class="center-3" src='theranostic-design.png'>
+</div>
+</body>
+</html>
+
 
 <Br>
 
@@ -24,7 +51,7 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 
 <Br>
 
- Because H<sub>2</sub>O<sub>2</sub> is known to be overproduced in some cancer cells, the resulting strategy of boron-based theranostics can selectively target cancer cells, thereby potentially improving the current clinically approved nitrogen mustard drugs.
+ Because H<sub>2</sub>O<sub>2</sub> is known to be overproduced in some cancer cells, the resulting strategy of boron-based theranostics can selectively target cancer cells, thereby potentially improving the current clinically approved nitrogen mustard drugs. Lastly, the synthesized theranostics <b> 35</b>,<b> 55</b> and<b> 58</b> were rationally designed based on the lead compound FAN-NM-CH<sub>3</sub> by extension of the methyl moiety, since FAN-NM-CH<sub>3</sub> presented superior cancer inhibition <i>in vitro</i> and <i>in vivo</i> amongst the other mustard prodrugs.
 
 <Br>
 
@@ -48,7 +75,7 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 </head>
 <body>
 <div class="imgbox">
-    <img class="center-fit" src='theranostic-compounds.png'>
+    <img class="center-fit" src='theranostic-design-structures.png'>
 </div>
 </body>
 </html>

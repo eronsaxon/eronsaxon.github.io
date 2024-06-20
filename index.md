@@ -147,6 +147,7 @@ University of Wisconsin–Milwaukee; <a href="https://uwm.edu/chemistry/our-peop
 <br>
 <ul>
 <li>Ability to maintain lab safety, lab cleanliness, lab notebook and meet deadlines</li> 
+<li>Ability to rationally design and synthesize molecules </li> 
 <li>Self-motivated and detail-oriented </li> 
 <br>
 </ul>

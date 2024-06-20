@@ -20,7 +20,7 @@ Purpose: Organic Chemist seeking a job in the field of chemistry.
  
 <Br>
 
- Because H<sub>2</sub>O<sub>2</sub> is known to be overproduced in some cancer cells, the resulting strategy of boron-based theranostics selectively target cancer cells.
+ Because H<sub>2</sub>O<sub>2</sub> is known to be overproduced in some cancer cells, the resulting strategy of boron-based theranostics selectively target cancer cells, thereby potentially improving the current clinically approved nitrogen mustard drugs.
 
 <Br>
 
@@ -33,10 +33,10 @@ Purpose: Organic Chemist seeking a job in the field of chemistry.
         }
         .imgbox {
             display: grid;
-            height: 100%;
+            height: 95%;
         }
         .center-fit {
-            max-width: 100%;
+            max-width: 95%;
             max-height: 100vh;
             margin: auto;
         }

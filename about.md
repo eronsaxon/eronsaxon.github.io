@@ -16,11 +16,15 @@ Purpose: Organic Chemist seeking a job in the field of chemistry.
 
 <Br>
 
- As anticancer agents, these theranostics comprise of the nitrogen mustard moiety that are known to target and alkylate the DNA thereby inhibiting DNA cellular processes, such as transcription and translation. As a result, the theranostics' nitrogen mustard may inhibit cancer cells' growth. Moreover, the nitrogen mustard functionality is directly conjugated to a phenyl boronic ester that deactivates the functionality of the mustard until H<sub>2</sub>O<sub>2</sub>-oxidative deboronation releases the active mustard to damage the cellular DNA. As profluorophores, the same theranostics also contain fluorescent scaffold to enable their detection in the biological context through safe photoimaging techniques.
- 
+ The general theranostic structure comprise of two main parts. The first part consists of the nitrogen mustard moiety that are known to target and alkylate the DNA thereby inhibiting DNA cellular processes to induce cell cycle arrest and cell death. As a result, the theranostics' nitrogen mustard act as anticancer agents to inhibit cancer cells. Moreover, the nitrogen mustard functionality is directly conjugated to a phenyl boronic ester that deactivates the the mustard's activity until H<sub>2</sub>O<sub>2</sub>-oxidative deboronation releases the active mustard to then damage cellular DNA.
+
+ <Br>
+
+ The second part of the theranostic is a fluorescent scaffold intended to be used as a means to detect them in the biological context through safe photoimaging techniques. This method enables monitoring the molecule's own activity dependent on H<sub>2</sub>O<sub>2</sub> activation.
+
 <Br>
 
- Because H<sub>2</sub>O<sub>2</sub> is known to be overproduced in some cancer cells, the resulting strategy of boron-based theranostics selectively target cancer cells, thereby potentially improving the current clinically approved nitrogen mustard drugs.
+ Because H<sub>2</sub>O<sub>2</sub> is known to be overproduced in some cancer cells, the resulting strategy of boron-based theranostics can selectively target cancer cells, thereby potentially improving the current clinically approved nitrogen mustard drugs.
 
 <Br>
 

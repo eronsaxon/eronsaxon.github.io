@@ -125,7 +125,7 @@ purification and <sup>32</sup>P radiolabeling of oligo for DNA interstrand cross
 <br>
 <br>
 **3. Research Volunteer** (June 2024 – Current)<br>
-University of Wisconsin–Milwaukee;&nbsp;&nbsp; <a href="https://uwm.edu/chemistry/our-people/peng-xiaohua/">Prof. Peng</a>;&nbsp;&nbsp; Location: Milwaukee, WI<br>
+University of Wisconsin–Milwaukee;&nbsp;&nbsp; Advisor:<a href="https://uwm.edu/chemistry/our-people/peng-xiaohua/"> Prof. Peng</a>;&nbsp;&nbsp; Location: Milwaukee, WI<br>
 <ul>
 <li>Investigation of novel small molecule prodrugs and theranostics as selective anticancer and/or fluorogenic agents</li>
 <br>

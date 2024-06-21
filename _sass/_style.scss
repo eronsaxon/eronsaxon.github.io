@@ -143,5 +143,11 @@ hr {
 	}
 }
 
+@media screen and (max-width: 600px) {
+    img {
+         width: 600px;
+    }
+}
+
 @import "typography";
 @import "tables";

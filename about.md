@@ -43,7 +43,7 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 
 <Br>
 
- The general theranostic structure comprise of two main parts. The first part consists of the nitrogen mustard moiety that are known to target and alkylate the DNA thereby inhibiting DNA cellular processes to induce cell cycle arrest and cell death. As a result, the theranostics' nitrogen mustard act as anticancer agents to inhibit cancer cells. Moreover, the nitrogen mustard functionality is directly conjugated to a phenyl boronic ester that deactivates the the mustard's activity until H<sub>2</sub>O<sub>2</sub>-oxidative deboronation releases the active mustard to then damage cellular DNA.
+ The general theranostic structure comprise of two main parts. The first part consists of the nitrogen mustard moiety that are known to target and alkylate the DNA, thereby inhibiting DNA cellular processes to induce cell cycle arrest and cell death. As a result, the theranostics' nitrogen mustard act as anticancer agents to inhibit fast dividing cancer cells. Moreover, the nitrogen mustard functionality is directly conjugated to a phenyl boronic ester that deactivates the the mustard's activity until H<sub>2</sub>O<sub>2</sub>-oxidative deboronation releases the active mustard to then damage cellular DNA.
 
  <Br>
 

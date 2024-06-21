@@ -82,7 +82,7 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 
 <Br>
 
- Currently, I am looking for more work related to organic chemistry and synthesis. I am capable of safely handling chemicals and reactions in addition to maintaining and organizing a lab. I have experience conducting research related to organic chemistry and documenting experiments in a lab notebook. I am self-motived, effective at communicating my research and capable meeting deadlines. Besides my previous experience, I am also open and eager to learn new chemistry and opportunities.
+ Currently, I am looking for more work related to organic chemistry and synthesis. I am capable of safely handling chemicals and reactions in addition to maintaining and organizing a lab. I have experience conducting research related to organic chemistry and documenting experiments in a lab notebook. I am self-motivated, effective at communicating my research and capable meeting deadlines. Besides my previous experience, I am also open and eager to learn new chemistry and opportunities.
  
  <Br>
 

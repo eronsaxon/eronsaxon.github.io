@@ -82,6 +82,10 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 
 <Br>
 
- Currently, I am looking for more work related to organic chemistry and synthesis. Besides my previous work, I am also open and eager to learn new chemistry and opportunities. If you are interested in hiring me, feel free to contact by <a href="https://eronsaxon.com/contact">e-mail</a>.
+ Currently, I am looking for more work related to organic chemistry and synthesis. I am capable of safely handling chemicals and reactions in addition to maintaining and organizing a lab. I have experience conducting research related to organic chemistry and documenting experiments in a lab notebook. I am self-motived, effective at communicating my research and capable meeting deadlines. Besides my previous experience, I am also open and eager to learn new chemistry and opportunities.
+ 
+ <Br>
+
+Contact me by <a href="https://eronsaxon.com/contact">e-mail</a> if you are interested in hiring me, or have questions about my work.
  
 <Br>

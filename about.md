@@ -24,11 +24,11 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
         }
         .imgbox-3 {
             display: grid;
-            height: 70%;
+            height: 80%;
         }
         .center-3 {
             max-width: 100%;
-            max-height: 70vh;
+            max-height: 80vh;
             margin: auto;
         }
     </style>

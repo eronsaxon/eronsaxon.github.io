@@ -10,7 +10,7 @@ layout: default
 <br>
 <img class="profile-picture" src="self-portrait2.JPG">
 
-Hello! I am an organic chemist with a PhD in Chemistry from the [University of Wisconsin-Milwaukee](https://uwm.edu/chemistry/our-people/saxon-eron/). I am currently seeking a job in the field of chemistry. Feel free to contact me if you're interested in my work.
+Hello! I am an organic chemist with a BSc and PhD in Chemistry from the [University of Wisconsin-Milwaukee](https://uwm.edu/chemistry/our-people/saxon-eron/). I am currently seeking a job in the field of chemistry. Feel free to contact me if you're interested in my work.
 <br>
 <br>
 ## PhD Dissertation
@@ -46,7 +46,7 @@ Hello! I am an organic chemist with a PhD in Chemistry from the [University of W
 ## Employment Experience
 <br>
 **1. Quality Control Lab Technician** (January 2018 – April 2019) <br>
-    Company: <a href="https://www.metaltek.com/"> MetalTek International</a>; Location: Waukesha, WI
+    Company: <a href="https://www.metaltek.com/"> MetalTek International</a>; &nbsp;&nbsp;Location: Waukesha, WI
 <ul>
     <br>
 <li>Operated analytical instruments, including LECO carbon/sulfur and nitrogen/oxygen instruments, x-ray, and arc optical emission spectrometers</li>
@@ -55,7 +55,7 @@ Hello! I am an organic chemist with a PhD in Chemistry from the [University of W
 </ul>
 <br>
 **2. Research and Teaching Assistant** (September 2019 – May 2024) <br>
-University of Wisconsin–Milwaukee; Advisor: <a href="https://uwm.edu/chemistry/our-people/peng-xiaohua/">Prof. Peng</a>; Location: Milwaukee, WI<br>
+University of Wisconsin–Milwaukee;&nbsp;&nbsp; Advisor: <a href="https://uwm.edu/chemistry/our-people/peng-xiaohua/">Prof. Peng</a>;&nbsp;&nbsp; Location: Milwaukee, WI<br>
 <ul>
 <br>
 <li>Designed novel theranostic and prodrug nitrogen mustards as anticancer small
@@ -125,7 +125,7 @@ purification and <sup>32</sup>P radiolabeling of oligo for DNA interstrand cross
 <br>
 <br>
 **3. Research Volunteer** (June 2024 – Current)<br>
-University of Wisconsin–Milwaukee; <a href="https://uwm.edu/chemistry/our-people/peng-xiaohua/">Prof. Peng</a>; Location: Milwaukee, WI<br>
+University of Wisconsin–Milwaukee;&nbsp;&nbsp; <a href="https://uwm.edu/chemistry/our-people/peng-xiaohua/">Prof. Peng</a>;&nbsp;&nbsp; Location: Milwaukee, WI<br>
 <ul>
 <li>Investigation of novel small molecule prodrugs and theranostics as selective anticancer and/or fluorogenic agents</li>
 <br>
@@ -137,7 +137,7 @@ University of Wisconsin–Milwaukee; <a href="https://uwm.edu/chemistry/our-peop
 <ul>
 <li>Synthetic organic chemistry, laboratory techniques and instrumentation</li> <li>Multi-step synthetic routes (>13 steps) of oxygen-,water-, light-sensitive reaction conditions</li> 
 <li>Click CuAAC, heterocycle and boron chemistry</li> 
-<li>Biochemistry and biological assays: in vitro cell cultures and in vivo mice models</li> 
+<li>Biochemistry and biological assays: <i>in vitro</i> cell cultures and <i>in vivo</i> mice models</li> 
 <li>Knowledge of anticancer drug development process</li> 
 <li>Microsoft Office, ChemDraw, ChemSketch, SciFinder, Reaxys, Shimadzu LabSolutions, Bruker TopSpin, ImageJ, Zeiss Zen, QuPath and GraphPad Prism</li> 
 </ul>
@@ -147,7 +147,7 @@ University of Wisconsin–Milwaukee; <a href="https://uwm.edu/chemistry/our-peop
 <br>
 <ul>
 <li>Ability to maintain lab safety, lab cleanliness, lab notebook and meet deadlines</li> 
-<li>Ability to rationally design and synthesize molecules </li> 
+<li>Ability to rationally design and synthesize organic molecules </li> 
 <li>Self-motivated and detail-oriented </li> 
 <br>
 </ul>

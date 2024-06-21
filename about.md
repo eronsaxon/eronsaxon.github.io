@@ -12,7 +12,7 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 
 <Br>
 
- Summary: I have a PhD in Chemistry from the University of Wisconsin-Milwaukee under the supervision of Dr. Xiaohua Peng. My research and work was related to the design, synthesis and investigation of novel boron-based theranostic small molecules intended to be used as both selective anticancer prodrug and profluorophore agents. 
+ Summary: I have a BSc and PhD in Chemistry from the University of Wisconsin-Milwaukee under the supervision of Dr. Xiaohua Peng. My research and work was related to the design, synthesis and investigation of novel boron-based theranostic small molecules intended to be used as both selective anticancer prodrug and profluorophore agents. 
 <Br>
 <Br>
 <html>

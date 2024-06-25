@@ -168,7 +168,7 @@ University of Wisconsin–Milwaukee;&nbsp;&nbsp; Advisor:<a href="https://uwm.ed
 <li>Saxon E., Peng X., DNA Sequencing: Modern Techniques and Application (2020). UWM Graduate Seminar, Milwaukee WI.</li>
 <li>Saxon E., Peng X., Synthesis of a Novel Phenyl Boronic Ester Nitrogen Mustard Analog (2021). Poster at the UWM Spring Symposium, Milwaukee WI.</li>
 <li>Saxon, E., Peng, X. Biological Application of a Novel DNA-Alkylating Theranostic Agent (2022). Poster at the <a href="https://acs.digitellinc.com/b/sp/eron-saxon-323319">ACS Fall 2022 Conference</a>, Chicago IL.</li>
-<li>Saxon E., Peng X., Synthesis and Application of a Novel DNA Alkylating Theranostic Agent. (2022). Seminar at the UWM Milwaukee Institute for Drug Discovery Symposium, Milwaukee WI.</li>
+<li>Saxon E., Peng X., Synthesis and Application of a Novel DNA Alkylating Theranostic Agent. (2022). Seminar at the UW-Milwaukee Institute for Drug Discovery Symposium, Milwaukee WI.</li>
 </ul> 
 <br>
 <br>

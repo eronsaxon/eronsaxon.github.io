@@ -12,7 +12,7 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 
 <Br>
 
- Summary: I have a BSc and PhD in Chemistry from the University of Wisconsin-Milwaukee under the supervision of Dr. Xiaohua Peng. My research and work was related to the design, synthesis and investigation of novel boron-based theranostic small molecules intended to be used as both selective anticancer prodrug and profluorophore agents. 
+ Summary: I have a BSc and PhD in Chemistry from the University of Wisconsin-Milwaukee under the supervision of Dr. Xiaohua Peng. My research and work were related to the design, synthesis and investigation of novel boron-based theranostic small molecules intended to be used as both selective anticancer prodrug and profluorophore agents. 
 <Br>
 <Br>
 <html>
@@ -43,7 +43,7 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 
 <Br>
 
- The general theranostic structure comprise of two main parts. The first part consists of the nitrogen mustard moiety that are known to target and alkylate the DNA, thereby inhibiting DNA cellular processes to induce cell cycle arrest and cell death. As a result, the theranostics' nitrogen mustard act as anticancer agents to inhibit fast dividing cancer cells. Moreover, the nitrogen mustard functionality is directly conjugated to a phenyl boronic ester that deactivates the the mustard's activity until H<sub>2</sub>O<sub>2</sub>-oxidative deboronation releases the active mustard to then damage cellular DNA.
+ The general theranostic structure comprises of two main parts. The first part consists of the nitrogen mustard moiety that are known to target and alkylate the DNA, thereby inhibiting DNA cellular processes to induce cell cycle arrest and cell death. As a result, the theranostics' nitrogen mustard acts as anticancer agents to inhibit fast dividing cancer cells. Moreover, the nitrogen mustard functionality is directly conjugated to a phenyl boronic ester that deactivates the the mustard's activity until H<sub>2</sub>O<sub>2</sub>-oxidative deboronation releases the active mustard to then damage cellular DNA.
 
  <Br>
 
@@ -82,7 +82,7 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 
 <Br>
 
- Currently, I am looking for more work related to organic chemistry and synthesis. I am capable of safely handling chemicals and reactions in addition to maintaining and organizing a lab. I have experience conducting research related to organic chemistry and documenting experiments in a lab notebook. I am self-motivated, effective at communicating my research and capable meeting deadlines. Besides my previous experience, I am also open and eager to learn new chemistry and opportunities.
+ Currently, I am looking for more work related to organic chemistry and synthesis. I am capable of safely handling chemicals and reactions in addition to maintaining and organizing a lab. I have experience conducting research related to organic chemistry and documenting experiments in a lab notebook. I am self-motivated, effective at communicating my research and capable of meeting deadlines. Besides my previous experience, I am also open and eager to learn new chemistry and opportunities.
  
  <Br>
 

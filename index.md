@@ -15,7 +15,8 @@ Hello! I am an organic chemist with a BSc and PhD in Chemistry from the [Univers
 <br>
 ## PhD Dissertation
 
-> *Boron-based theranostics and prodrugs: design, synthesis, mechanism and biological investigation* (<a href="https://dc.uwm.edu/etd/3513/">UWM Digital Commons</a>)
+> <i>Boron-based theranostics and prodrugs: design, synthesis, mechanism and biological investigation</i> 
+(2024, <a href="https://dc.uwm.edu/etd/3513/">UWM Digital Commons</a>)
 
 <html>
 <head>

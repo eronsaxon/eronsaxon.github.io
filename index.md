@@ -158,7 +158,7 @@ University of Wisconsin–Milwaukee;&nbsp;&nbsp; Advisor:<a href="https://uwm.ed
 <ul>
 <li>Fan, H.; Zaman, M. A. U.; Chen, W.; Ali, T.; Campbell, A.; Zhang, Q.; Setu, N. I.; <b>Saxon, E.</b>; Zahn, N. M.; Benko, A. M.; Arnold, L. A.; Peng, X., Assessment of Phenylboronic Acid Nitrogen Mustards as Potent and Selective Drug Candidates for Triple-Negative Breast Cancer. <i>ACS Pharmacol. Transl. Sci.</i> 2021, 4 (2), 687-702, <a href="https://pubs.acs.org/doi/10.1021/acsptsci.0c00092">doi.org/10.1021/acsptsci.0c00092</a></li>
 <li><b>Saxon, E.</b>; Peng, X. (2021), Recent Advances in Hydrogen Peroxide Responsive Organoborons for Biological and Biomedical Applications. <i>ChemBioChem</i>. 2021, <a href="https://doi.org/10.1002/cbic.202100366">doi.org/10.1002/cbic.202100366</a></li> 
-<li><b>Saxon, E.</b>; Ali, T.; Peng, X. (2024), Hydrogen Peroxide Responsive Theranostics for Cancer-Selective Activation of DNA Alkylators and Real-Time Fluorescence Monitoring in Living Cells. (under review, <i>Eur. J. Med. Chem</i>)</li>
+<li><b>Saxon, E.</b>; Ali, T.; Peng, X. (2024), Hydrogen Peroxide Responsive Theranostics for Cancer-Selective Activation of DNA Alkylators and Real-Time Fluorescence Monitoring in Living Cells. <i>Eur. J. Med. Chem.</i> 2024, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0223523424005750?via%3Dihub">doi.org/10.1016/j.ejmech.2024.116695</a></li> 
 </ul> 
 <br>
 <br>

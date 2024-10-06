@@ -27,11 +27,11 @@ Hello! I am an organic chemist with a BSc and PhD in Chemistry from the [Univers
         }
         .imgbox {
             display: grid;
-            height: 95%;
+            height: 90%;
         }
         .center-fit {
-            max-width: 95%;
-            max-height: 95vh;
+            max-width: 90%;
+            max-height: 90vh;
             margin: auto;
         }
     </style>
@@ -182,11 +182,11 @@ Concordia University Wisconsin;&nbsp;&nbsp; Advisor: <a href="https://blog.cuw.e
         }
         .imgbox-fourth {
             display: grid;
-            height: 75%;
+            height: 90%;
         }
         .center-fit-fourth {
-            max-width: 95%;
-            max-height: 95vh;
+            max-width: 100%;
+            max-height: 100vh;
             margin: auto;
         }
     </style>

@@ -125,7 +125,7 @@ purification and <sup>32</sup>P radiolabeling of oligo for DNA interstrand cross
 
 <br>
 <br>
-**3. Research Volunteer** (June 2024 – Current)<br>
+**3. Research Volunteer** (June 2024 – July 2024)<br>
 University of Wisconsin–Milwaukee;&nbsp;&nbsp; Advisor:<a href="https://uwm.edu/chemistry/our-people/peng-xiaohua/"> Prof. Peng</a>;&nbsp;&nbsp; Location: Milwaukee, WI<br>
 <ul>
 <li>Investigation of novel small molecule prodrugs and theranostics as selective anticancer and/or fluorogenic agents</li>
@@ -153,6 +153,47 @@ University of Wisconsin–Milwaukee;&nbsp;&nbsp; Advisor:<a href="https://uwm.ed
 <body>
 <div class="imgbox-third">
     <img class="center-fit-third" src='Assays_Summary.png'>
+</div>
+</body>
+</html>
+
+<br>
+<br>
+
+**2. Postdoctoral Fellow** (July 2024 – Current) <br>
+Concordia University Wisconsin;&nbsp;&nbsp; Advisor: <a href="https://blog.cuw.edu/nih-grant-anxiety/">Prof. Cunningham</a>;&nbsp;&nbsp; Location: Mequon, WI<br>
+<ul>
+<br>
+<li>Designed, synthesized and characterized novel sterol carrier protein-2 (SCP-2) inhibitors as endocannabinoid/cannabinoid system modulators for treatment of anxiety and stress</li>
+<li>Hit-to-lead discovery, SAR synthesis and optimization of small organic molecules for targeting proteins</li>
+<li>Maintained lab notebook records of experimental procedures, data, and observations</li>
+<li>Utilized synthetic organic chemistry techniques, including multi-step synthesis, purification, and characterization (NMR, purity score, MS and melting point)</li>
+<li>Routine upkeep of research equipment, including Varian 500 MHz NMR, Thermo Dionex 3000 HPLC-DAD, Sciex 4000 triple quad LC/MS and Biotage flash chromatography</li>
+<li>Collaborated with an interdisciplinary team to interpret the results of structure-activity</li>
+
+</ul>
+<br>
+<html>
+<head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox-fourth {
+            display: grid;
+            height: 75%;
+        }
+        .center-fit-fourth {
+            max-width: 95%;
+            max-height: 95vh;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div class="imgbox-fourth">
+    <img class="center-fit-fourth" src='postdoc_research_cpds.png'>
 </div>
 </body>
 </html>

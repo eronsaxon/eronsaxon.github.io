@@ -130,8 +130,36 @@ University of Wisconsin–Milwaukee;&nbsp;&nbsp; Advisor:<a href="https://uwm.ed
 <ul>
 <li>Investigation of novel small molecule prodrugs and theranostics as selective anticancer and/or fluorogenic agents</li>
 <br>
-<br>
 </ul>
+
+<html>
+<head>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox-third {
+            display: grid;
+            height: 33%;
+        }
+        .center-fit-third {
+            max-width: 100%;
+            max-height: 100vh;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div class="imgbox-third">
+    <img class="center-fit-third" src='Assays_Summary.png'>
+</div>
+</body>
+</html>
+
+<br>
+<br>
+
 
 ## Skills
 <br>

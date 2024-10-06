@@ -50,7 +50,7 @@ sass:
 nav:
  - name: "About"
    link: "about"
- - name: "Resume"
+ - name: "Resume PDF"
    link: "EronSaxon-online-resume-2024-9-9.pdf"
  - name: "Contact"
    link: "contact"

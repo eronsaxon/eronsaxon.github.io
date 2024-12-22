@@ -185,8 +185,8 @@ Concordia University Wisconsin;&nbsp;&nbsp; Advisor: <a href="https://blog.cuw.e
             height: 90%;
         }
         .center-fit-fourth {
-            max-width: 100%;
-            max-height: 100vh;
+            max-width: 85%;
+            max-height: 85vh;
             margin: auto;
         }
     </style>

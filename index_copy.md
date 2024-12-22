@@ -10,7 +10,7 @@ layout: default
 <br>
 <img class="profile-picture" src="self-portrait2.JPG">
 
-Hello! I am an organic chemist with a BSc and PhD in Chemistry from the [University of Wisconsin-Milwaukee](https://uwm.edu/chemistry/our-people/saxon-eron/). My research interests are in the synthesis and evaluation of novel DNA and protein targeting small organic molecules.
+Hello! I am an organic chemist with a BSc and PhD in Chemistry from the [University of Wisconsin-Milwaukee](https://uwm.edu/chemistry/our-people/saxon-eron/). I am currently seeking a job in the field of chemistry. Contact me if you are interested in hiring me, or have questions about my work.
 <br>
 <br>
 ## PhD Dissertation
@@ -144,8 +144,8 @@ University of Wisconsin–Milwaukee;&nbsp;&nbsp; Advisor:<a href="https://uwm.ed
             height: 33%;
         }
         .center-fit-third {
-            max-width: 80%;
-            max-height: 80vh;
+            max-width: 100%;
+            max-height: 100vh;
             margin: auto;
         }
     </style>
@@ -160,7 +160,7 @@ University of Wisconsin–Milwaukee;&nbsp;&nbsp; Advisor:<a href="https://uwm.ed
 <br>
 <br>
 
-**4. Postdoctoral Fellow** (July 2024 – November 2024) <br>
+**4. Postdoctoral Fellow** (July 2024 – Current) <br>
 Concordia University Wisconsin;&nbsp;&nbsp; Advisor: <a href="https://blog.cuw.edu/nih-grant-anxiety/">Prof. Cunningham</a>;&nbsp;&nbsp; Location: Mequon, WI<br>
 <ul>
 <br>
@@ -200,14 +200,8 @@ Concordia University Wisconsin;&nbsp;&nbsp; Advisor: <a href="https://blog.cuw.e
 
 <br>
 <br>
-**5. Thermo Fisher Scientist Level III** (November 2024 – Current) <br>
-<ul>
-<br>
-<li>Research and Development (R&D) Chemist for applications in protein biology</li>
-</ul>
 
-<br>
-<br>
+
 ## Skills
 <br>
 <ul>

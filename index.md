@@ -144,8 +144,8 @@ University of Wisconsin–Milwaukee;&nbsp;&nbsp; Advisor:<a href="https://uwm.ed
             height: 33%;
         }
         .center-fit-third {
-            max-width: 80%;
-            max-height: 80vh;
+            max-width: 85%;
+            max-height: 85vh;
             margin: auto;
         }
     </style>

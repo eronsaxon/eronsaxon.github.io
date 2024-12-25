@@ -201,9 +201,11 @@ Concordia University Wisconsin;&nbsp;&nbsp; Advisor: <a href="https://blog.cuw.e
 <br>
 <br>
 **5. Thermo Fisher Scientist Level III** (November 2024 – Current) <br>
+Thermo Fisher Pierce Biotechnology,<a href="https://www.thermofisher.com/us/en/home/life-science/protein-biology/bulk-custom-protein-biology-products/bulk-manufacturing-capabilities.html"> IL</a>
 <ul>
 <br>
-<li>Research and Development (R&D) Chemist for applications in protein biology</li>
+<li>Research and Development (R&D) Chemist</li>
+<li>Organic synthetic chemist for applications in protein biology</li>
 </ul>
 
 <br>

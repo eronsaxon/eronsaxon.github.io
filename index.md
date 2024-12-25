@@ -160,7 +160,7 @@ University of Wisconsin–Milwaukee;&nbsp;&nbsp; Advisor:<a href="https://uwm.ed
 <br>
 <br>
 
-**4. Postdoctoral Fellow** (July 2024 – November 2024) <br>
+**4. Postdoctoral Fellow** (July 2024 – October 2024) <br>
 Concordia University Wisconsin;&nbsp;&nbsp; Advisor: <a href="https://blog.cuw.edu/nih-grant-anxiety/">Prof. Cunningham</a>;&nbsp;&nbsp; Location: Mequon, WI<br>
 <ul>
 <br>
@@ -200,7 +200,7 @@ Concordia University Wisconsin;&nbsp;&nbsp; Advisor: <a href="https://blog.cuw.e
 
 <br>
 <br>
-**5. Thermo Fisher Scientist Level III** (November 2024 – Current) <br>
+**5. Thermo Fisher Scientist Level III** (October 2024 – Current) <br>
 Thermo Fisher Pierce Biotechnology,<a href="https://www.thermofisher.com/us/en/home/life-science/protein-biology/bulk-custom-protein-biology-products/bulk-manufacturing-capabilities.html"> IL</a>
 <ul>
 <br>

@@ -55,4 +55,4 @@ nav:
  - name: "Contact"
    link: "contact"
  - name: "My Blog"
-   link: "www.reactiondigest.com"
+   url: "www.reactiondigest.com"

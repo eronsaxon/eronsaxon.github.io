@@ -127,7 +127,7 @@ Hello! I am an organic chemist and biochemist with a BSc and PhD in Chemistry fr
 <br>
 
 **3. Research and Teaching Assistant** (September 2019 – May 2024) <br>
-University of Wisconsin–Milwaukee; Advisor: <a href="https://uwm.edu/chemistry/about/directory/peng-xiaohua/">Prof. Peng</a> (Milwaukee, WI)<br>
+<a href="https://uwm.edu/chemistry/"> University of Wisconsin–Milwaukee</a>; Advisor: <a href="https://uwm.edu/chemistry/about/directory/peng-xiaohua/">Prof. Peng</a> (Milwaukee, WI)<br>
 
 <html>
 <head>

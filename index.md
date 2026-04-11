@@ -47,8 +47,19 @@ Hello! I am an organic chemist and biochemist with a BSc and PhD in Chemistry fr
 ### EMPLOYMENT EXPERIENCE
 
 <hr/>
-**1. R&D Scientist Level III** (October 2024 – Current) <br>
-<a href="https://www.thermofisher.com/us/en/home/life-science/protein-biology/bulk-custom-protein-biology-products/bulk-manufacturing-capabilities.html">Thermo Fisher Scientific</a> (Rockford, IL)
+
+**1. Sr. Formulation Scientist** (January 2026 – Current) <br>
+<a href="https://www.tolmar.com/">Tolmar, Inc.</a> (Fort Collins, CO)
+<ul>
+
+<li>Research and Development (R&D) of pharmaceuticals in oncology, urology, endocrinology</li>
+</ul>
+
+<br>
+<br>
+
+**2. R&D Scientist Level III** (October 2024 – Current) <br>
+<a href="https://www.thermofisher.com/us/en/home/life-science/protein-biology/bulk-custom-protein-biology-products/bulk-manufacturing-capabilities.html">Thermo Fisher Scientific</a>; Director: Brian Webb (Rockford, IL)
 <ul>
 
 <li>Manage multiple concurrent projects as a Research and Development (R&D) organic synthetic chemist for the development of products related to protein cell analysis</li>
@@ -86,7 +97,7 @@ Hello! I am an organic chemist and biochemist with a BSc and PhD in Chemistry fr
 <br>
 <br>
 
-**2. Postdoctoral Fellow** (July 2024 – October 2024) <br>
+**3. Postdoctoral Fellow** (July 2024 – October 2024) <br>
 <a href="https://www.cuw.edu/academics/schools/pharmacy/index.html"> Concordia University Wisconsin</a>; Advisor: <a href="https://blog.cuw.edu/nih-grant-anxiety/">Prof. Cunningham </a>(Mequon, WI)<br>
 <ul>
 
@@ -126,7 +137,7 @@ Hello! I am an organic chemist and biochemist with a BSc and PhD in Chemistry fr
 <br>
 <br>
 
-**3. Research and Teaching Assistant** (September 2019 – May 2024) <br>
+**4. Research and Teaching Assistant** (September 2019 – May 2024) <br>
 <a href="https://uwm.edu/chemistry/"> University of Wisconsin–Milwaukee</a>; Advisor: <a href="https://uwm.edu/chemistry/about/directory/peng-xiaohua/">Prof. Peng</a> (Milwaukee, WI)<br>
 
 <html>
@@ -223,7 +234,7 @@ purification (MALDI-TOF and UV/VIS) and <sup>32</sup>P radiolabeling of oligo an
 
 <br>
 <br>
-**4. Quality Control Lab Technician** (January 2018 – April 2019) <br>
+**5. Quality Control Lab Technician** (January 2018 – April 2019) <br>
 <a href="https://www.metaltek.com/"> MetalTek International</a> (Waukesha, WI)
 <ul>
 

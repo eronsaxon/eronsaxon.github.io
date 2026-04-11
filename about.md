@@ -82,8 +82,9 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 
 <Br>
 <Br>
- Currently, I am a Thermo Fisher Scientific R&D chemist for applications in protein biology.
- <Br>
+
+<p> Currently, I am a Sr. Formulation Scientist for Tolmar Pharmaceuticals </p>
+
  <Br>
  <html>
 <head>
@@ -105,7 +106,7 @@ Purpose: Organic chemist seeking a job in the field of chemistry.
 </head>
 <body>
 <div class="imgbox-second">
-    <img class="center-fit-second" src='logo-thermo-fisher.png'>
+    <img class="center-fit-second" src='Tolmar_Logo.jpg'>
 </div>
 </body>
 </html>

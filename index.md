@@ -58,7 +58,7 @@ Hello! I am an organic chemist and biochemist with a BSc and PhD in Chemistry fr
 <br>
 <br>
 
-**2. R&D Scientist Level III** (October 2024 – Current) <br>
+**2. R&D Scientist Level III** (October 2024 – December) <br>
 <a href="https://www.thermofisher.com/us/en/home/life-science/protein-biology/bulk-custom-protein-biology-products/bulk-manufacturing-capabilities.html">Thermo Fisher Scientific</a>; Director: Brian Webb (Rockford, IL)
 <ul>
 

@@ -48,7 +48,7 @@ Hello! I am an organic chemist and biochemist with a BSc and PhD in Chemistry fr
 
 <hr/>
 
-**1. Sr. Formulation Scientist** (January 2026 – Current) <br>
+**1. Sr. Formulation Associate Scientist** (January 2026 – Current) <br>
 <a href="https://www.tolmar.com/">Tolmar, Inc.</a> (Fort Collins, CO)
 <ul>
 

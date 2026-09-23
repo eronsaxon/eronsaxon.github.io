@@ -9,7 +9,7 @@ description: "Organic chemist and biochemist (PhD, UW-Milwaukee) working on boro
 <br>
 <img class="profile-picture" src="self-portrait2.JPG">
 
-Hello! I am an organic chemist and biochemist with a BSc and PhD in Chemistry from the [University of Wisconsin-Milwaukee](https://uwm.edu/chemistry/our-people/saxon-eron/). My research interests are in the synthesis and evaluation of novel DNA and protein targeting small organic molecules.
+Hello! I am an organic chemist and biochemist with a BSc and PhD in Chemistry from the [University of Wisconsin-Milwaukee](hhttps://uwm.edu/chemistry/). My research interests are in the synthesis and evaluation of novel DNA and protein targeting small organic molecules.
 <br>
 <br>
 ## PhD Dissertation

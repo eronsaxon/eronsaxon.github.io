@@ -16,11 +16,12 @@
 title: Eron Saxon
 email: eronsaxon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Organic Chemist 
+  Organic chemist and biochemist. PhD from UWM. Research in boron-based theranostics, DNA-targeting small molecules, and medicinal chemistry.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eronsaxon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:
+linkedin_username: eron-saxon-800a8a37b
+github_username: eronsaxon
+og_image: "/self-portrait2.JPG"
 
 # Build settings
 markdown: kramdown

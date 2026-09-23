@@ -1,8 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+title: "Eron Saxon | Medicinal Chemist"
+description: "Organic chemist and biochemist (PhD, UW-Milwaukee) working on boron-based theranostics, DNA- and protein-targeting small molecules. Publications in J. Med. Chem., patents, and a Distinguished Dissertation Fellowship."
 ---
 
 <br>

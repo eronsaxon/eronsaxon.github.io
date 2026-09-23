@@ -1,7 +1,10 @@
 ---
 layout: default
 is_contact: true
+title: "Contact | Eron Saxon"
+description: "Get in touch with Eron Saxon — email, LinkedIn, ORCID, and GitHub."
 ---
+
 ## Contact
 
 Email: [eronsaxon@gmail.com](mailto:eronsaxon@gmail.com)

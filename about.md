@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "About | Eron Saxon"
+description: "About Eron Saxon: organic chemist and biochemist (PhD, University of Wisconsin-Milwaukee) specializing in boron-based theranostic small molecules and medicinal chemistry."
 ---
 
 <Br>
@@ -8,7 +10,7 @@ layout: default
 
 <Br>
 
-Purpose: Organic chemist seeking a job in the field of chemistry.
+Purpose: Medicinal Chemist portfolio 
 
 <Br>
 
